@@ -1,6 +1,6 @@
 # Encryption Decryption using Caesar Cipher (Modified Form)
 
-## Cryptography:
+## Cryptography
 
 Cryptography is used to secure and protect data during communication. It is helpful to prevent unauthorized person or group of users from accessing any confidential data. Encryption and decryption are the two essential functionalities of cryptography.
 
