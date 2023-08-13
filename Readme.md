@@ -23,3 +23,12 @@ Chiper text contains the random number with its data and used a symmetric key fo
 ## To Execute
 
 Run `node test.js` in **encrypt_decrypt/** directory in terminal.
+
+
+## Authors
+
+- [@mudassar-web](https://github.com/mudassar-web)
+
+## License
+
+[MIT License](LICENSE)
